@@ -1,0 +1,47 @@
+PODS:
+  - Bolts (1.6.0):
+    - Bolts/AppLinks (= 1.6.0)
+    - Bolts/Tasks (= 1.6.0)
+  - Bolts/AppLinks (1.6.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.6.0)
+  - FBSDKCoreKit (4.10.1):
+    - Bolts (~> 1.5)
+  - FBSDKLoginKit (4.10.1):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.10.1):
+    - FBSDKCoreKit
+  - Firebase (2.5.1)
+  - GoogleMaps (1.12.3)
+  - HCSStarRatingView (1.4.3)
+  - OMGHTTPURLRQ/UserAgent (3.1.1)
+  - RMActionController (1.0.5)
+  - RMPickerViewController (2.0.3):
+    - RMActionController (~> 1.0.5)
+  - TDOAuth (1.1.2):
+    - OMGHTTPURLRQ/UserAgent
+
+DEPENDENCIES:
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - Firebase (>= 2.5.0)
+  - GoogleMaps
+  - HCSStarRatingView (~> 1.4)
+  - RMPickerViewController
+  - TDOAuth (~> 1.1)
+
+SPEC CHECKSUMS:
+  Bolts: f52a250053bb517ca874523c3913776359ab3def
+  FBSDKCoreKit: d2aaed5e9ab7d8d6301c533376a1fbff1cf3deb5
+  FBSDKLoginKit: 699ff169080e3072de4b9b0faca90bf23dc36deb
+  FBSDKShareKit: 2fd887cce0056bdda91f99b2021d724a4fed8e88
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  GoogleMaps: a4ac67918d0b5ba5f6b9893ac80487e357779e6c
+  HCSStarRatingView: bada6ae98258c3019531e0218030e2d5ad10765a
+  OMGHTTPURLRQ: 633f98ee745aeda02345935a52eec1784cddb589
+  RMActionController: b83653e7452ed51492094d65dc82151c36443c03
+  RMPickerViewController: f774dbdfddfe819bbaf211d5719deebcbf1a55ed
+  TDOAuth: f7e356e834295b83c7b5066ee72a30f128c5f722
+
+COCOAPODS: 0.39.0

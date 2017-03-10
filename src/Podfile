@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+target 'YXEats' do
+  pod 'TDOAuth', '~> 1.1'
+  pod 'GoogleMaps'
+  pod 'FBSDKCoreKit'
+  pod 'FBSDKLoginKit'
+  pod 'Firebase', '>= 2.5.0'
+  pod 'FBSDKShareKit'
+  pod 'RMPickerViewController'
+  pod 'HCSStarRatingView', '~> 1.4'
+end
