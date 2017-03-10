@@ -216,7 +216,7 @@
                 <navigationController id="UUs-Yw-yCz" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Home" image="home" id="908-75-7dw"/>
                     <navigationItem key="navigationItem" id="9Ml-MB-ZOE"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="bO2-9J-x3C">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="bO2-9J-x3C">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -244,7 +244,7 @@
                                 <rect key="frame" x="47" y="406" width="240" height="128"/>
                             </imageView>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Pcv-hc-uz0">
-                                <rect key="frame" x="0.0" y="23.5" width="375" height="216"/>
+                                <rect key="frame" x="0.0" y="24" width="375" height="216"/>
                                 <color key="backgroundColor" red="0.94949494950000002" green="0.46744874279999998" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
                                     <outlet property="dataSource" destination="MH1-2m-vTI" id="BHO-er-h1n"/>
