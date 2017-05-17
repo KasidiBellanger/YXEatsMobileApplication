@@ -216,7 +216,7 @@
                 <navigationController id="UUs-Yw-yCz" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Home" image="home" id="908-75-7dw"/>
                     <navigationItem key="navigationItem" id="9Ml-MB-ZOE"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="bO2-9J-x3C">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="bO2-9J-x3C">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
